@@ -19,6 +19,7 @@
         * [交互：alert、prompt 和 confirm](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/jiao-hu-alertprompt-he-confirm.md)
         * [类型转换](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/lei-xing-zhuan-huan.md)
         * [基础运算符，数学运算](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/ji-chu-yun-suan-fu-shu-xue-yun-suan.md)
+        * [值的比较](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/zhi-de-bi-jiao.md)
         * [Hello World](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/hello-world.md)
   * [Code Style](web-development/code-style.md)
 * [English](english.md)
