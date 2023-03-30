@@ -25,6 +25,7 @@
         * [逻辑运算符](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/luo-ji-yun-suan-fu.md)
         * [空值合并运算符 '??'](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/kong-zhi-he-bing-yun-suan-fu.md)
         * ["switch" 语句](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/switch-yu-ju.md)
+        * [函数](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/han-shu.md)
         * [循环：while 和 for](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/xun-huan-while-he-for.md)
   * [Code Style](web-development/code-style.md)
 * [English](english.md)
