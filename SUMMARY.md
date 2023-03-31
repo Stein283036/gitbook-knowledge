@@ -39,3 +39,5 @@
   * [Bash](linux/bash/README.md)
     * [Bash 与 Shell 的关系](linux/bash/bash-yu-shell-de-guan-xi.md)
     * [Some tips that a Bash Geeker should learn](linux/bash/some-tips-that-a-bash-geeker-should-learn.md)
+* [Git && GitHub](git-and-and-github/README.md)
+  * [Git 的常用命令](git-and-and-github/git-de-chang-yong-ming-ling.md)
