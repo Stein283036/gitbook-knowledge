@@ -13,6 +13,7 @@
     * [Page 1](web-development/apache-echarts/page-1.md)
     * [快速上手](web-development/apache-echarts/kuai-su-shang-shou.md)
   * [JavaScript](web-development/javascript/README.md)
+    * [变量提升和函数提升](web-development/javascript/bian-liang-ti-sheng-he-han-shu-ti-sheng.md)
     * [Full Guide](web-development/javascript/full-guide/README.md)
       * [第一章 JavaScript 基础知识](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/README.md)
         * [Hello World](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/hello-world.md)
