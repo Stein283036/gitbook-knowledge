@@ -34,7 +34,6 @@
   * [Code Style](web-development/code-style.md)
 * [English](english.md)
 * [Computer Science](computer-science.md)
-* [文学爱好者](wen-xue-ai-hao-zhe.md)
 * [Wikipedia](wikipedia.md)
 * [Linux](linux/README.md)
   * [Bash](linux/bash/README.md)
@@ -42,3 +41,5 @@
     * [Some tips that a Bash Geeker should learn](linux/bash/some-tips-that-a-bash-geeker-should-learn.md)
 * [Git && GitHub](git-and-and-github/README.md)
   * [Git 的常用命令](git-and-and-github/git-de-chang-yong-ming-ling.md)
+* [Tools](tools/README.md)
+  * [Mermaid](tools/mermaid.md)
