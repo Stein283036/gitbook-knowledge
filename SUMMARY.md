@@ -33,7 +33,7 @@
         * [循环：while 和 for](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/xun-huan-while-he-for.md)
   * [Code Style](web-development/code-style.md)
 * [English](english.md)
-* [Computer Science](computer-science/README.md)
+* [Computer Science](computer-science.md)
   * [Unicode 编码](computer-science/unicode-bian-ma.md)
 * [Wikipedia](wikipedia.md)
 * [Linux](linux/README.md)
