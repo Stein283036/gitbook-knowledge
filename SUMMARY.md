@@ -34,6 +34,7 @@
         * [函数](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/han-shu.md)
         * [循环：while 和 for](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/xun-huan-while-he-for.md)
   * [Code Style](web-development/code-style.md)
+  * [解析组成文件的顺序](web-development/jie-xi-zu-cheng-wen-jian-de-shun-xu.md)
 * [English](english.md)
 * [Computer Science](computer-science.md)
   * [Unicode 编码](computer-science/unicode-bian-ma.md)
