@@ -6,8 +6,8 @@
 
 * String
 * Number
-* undefined
-* null
+* Undefined
+* Null
 * Boolean
 * BigInt
 * Symbol
@@ -18,17 +18,19 @@
 
 ### Number
 
-JS 中的数字类型没有整型和浮点型之分，只有一种表示数字的类型，即 `Number` 。常用的基本数字操作有：+、-、\*、/、\*\*（平方）、% 。数字也可以用来进行位运算，比如：`^`、`|`、`&`。
+JS 中的数字类型没有整型和浮点型之分，只有一种表示数字的类型，即 `Number` 。常用的基本数字操作有：`+`、`-`、`*`、`/`、`**`（幂运算）、`%` 。数字也可以用来进行位运算，比如：`^`、`|`、`&` 、`~`。
 
 出来常规的数字字面量表示的数值以外，还有特殊的数字值也属于 Number 类型，这些值是：`Infinity`、`-Infinity` 和 `NaN` 。
 
-Infinity 是数学中表示无穷大的概念，表示无穷大；-Infinity 则表示负无穷大，即无穷小的概念；NaN 即 Not a Number，它是用来表示对一个不正确的数学运算结果的表示。
+`Infinity` 是数学中表示无穷大的概念，表示无穷大；`-Infinity` 则表示负无穷大，即无穷小的概念；`NaN` 即 Not a Number，它是用来表示对一个不正确的数学运算结果的表示。
 
 ```javascript
 alert(1 / 0); // Infinity
 alert(-1 / 0); // -Infinity
 alert("not a number" / 0) // NaN
 ```
+
+> JS 中的 Number 类型统一采用 IEEE 754 的标准存储浮点数值。
 
 ### BigInt
 
@@ -44,9 +46,9 @@ console.log(9007199254740991 + 3); // 9007199254740994
 
 在大多数情况下，`±(253-1)` 范围就足够了，但有时候我们需要整个范围非常大的整数，例如用于密码学或微秒精度的时间戳。
 
-`BigInt` 类型是最近被添加到 JavaScript 语言中的，用于表示任意长度的整数。
+`BigInt` 类型是最近被添加到 JavaScript 语言中的，用于表示**任意长度的整数**。
 
-可以通过将 `n` 附加到整数字段的末尾来创建 `BigInt` 值。
+可以通过**将 `n` 附加到整数字段的末尾**来创建 `BigInt` 值。
 
 ```javascript
 // 尾部的 "n" 表示这是一个 BigInt 类型
@@ -63,7 +65,7 @@ JS 中没有单独对字符规定一个数据类型，只有一种 `String` 类�
 
 ```javascript
 let birthPlace = 'Beijing';
-birthPlace = 'China';
+birthPlace = China";
 let description = `I was born in ${birthPlace}`; // I was born in China
 // ${} 中的表达式会被计算，计算结果会成为字符串的一部分，可以在其中
 // 嵌入一些其它的表达式计算，最好不要过于复杂
@@ -87,11 +89,11 @@ if (flag) {
 
 ### null
 
-`null` 数据类型有且仅有一个值，那就是字面量 null。
+`Null`数据类型有且仅有一个值，那就是字面量 null。
 
 ### undefined
 
-特殊值 undefined 也构成了一种类型，那就是 `undefined` 。
+特殊值 undefined 也构成了一种类型，那就是 `Undefined`。
 
 使用 `null` 将一个“空”或者“未知”的值写入变量中，而 `undefined` 则保留作为未进行初始化的事物的默认初始值。
 
@@ -130,7 +132,7 @@ typeof alert // "function"
 {% hint style="info" %}
 `typeof null` 的结果为 `"object"`。
 
-这是官方承认的 typeof 的错误，这个问题来自于 JavaScript 语言的早期阶段，并为了兼容性而保留了下来。 // null 绝对不是一个 object。null 有自己的类型，它是一个特殊值。typeof 的行为在这里是错误的。
+这是官方承认的 typeof 的**错误**，这个问题来自于 JavaScript 语言的早期阶段，并为了兼容性而保留了下来。 null 绝对不是一个 object。null 有自己的类型，它是一个特殊值。typeof 的行为在这里是错误的。
 
-`typeof alert` 的结果是 `"function"，`因为 `alert` 在 JavaScript 语言中是一个函数。在 JavaScript 语言中没有一个特别的 “function” 类型。函数隶属于 `object` 类型。但是 `typeof` 会对函数区分对待，并返回 `"function"`。这也是来自于 JavaScript 语言早期的问题。从技术上讲，这种行为是不正确的，但在实际编程中却非常方便。
+`typeof alert` 的结果是 `"function"，`因为 `alert` 在 JavaScript 语言中是一个函数。在 JavaScript 语言中没有一个特别的 “function” 类型。函数隶属于 `object` 类型。但是 `typeof` 会对函数区分对待，并返回 `"function"`。这也是来自于 JavaScript 语言早期的问题。从技术上讲，这种行为是不正确的，但**在实际编程中却非常方便**。
 {% endhint %}
