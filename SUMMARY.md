@@ -33,6 +33,7 @@
         * ["switch" 语句](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/switch-yu-ju.md)
         * [函数](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/han-shu.md)
         * [循环：while 和 for](web-development/javascript/full-guide/di-yi-zhang-javascript-ji-chu-zhi-shi/xun-huan-while-he-for.md)
+    * [JavaScript function hoisting](https://gist.github.com/maxogden/4bed247d9852de93c94c)
   * [Code Style](web-development/code-style.md)
   * [解析组成文件的顺序](web-development/jie-xi-zu-cheng-wen-jian-de-shun-xu.md)
 * [English](english.md)
