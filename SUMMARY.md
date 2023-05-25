@@ -37,6 +37,7 @@
   * [Code Style](web-development/code-style.md)
   * [解析组成文件的顺序](web-development/jie-xi-zu-cheng-wen-jian-de-shun-xu.md)
   * [带你入门前端工程](https://woai3c.gitee.io/introduction-to-front-end-engineering/)
+  * [前端工程化：基于 Vue.js 3.0 的设计与实践](https://vue3.chengpeiquan.com/)
 * [Computer Science](computer-science.md)
   * [Unicode 编码](computer-science/unicode-bian-ma.md)
   * [The Unix and Internet Fundamentals HOWTO](https://tldp.org/HOWTO/Unix-and-Internet-Fundamentals-HOWTO/)
