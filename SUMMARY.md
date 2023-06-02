@@ -40,6 +40,7 @@
     * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
     * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
     * [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+    * [Vue.js 风格指南](https://v2.cn.vuejs.org/v2/style-guide)
   * [解析组成文件的顺序](web-development/jie-xi-zu-cheng-wen-jian-de-shun-xu.md)
   * [Vue.js](web-development/vue.js/README.md)
     * [Simple Todo App with Vue](https://codesandbox.io/s/o29j95wx9)
